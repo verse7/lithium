@@ -3,6 +3,9 @@ import App from './App.vue'
 import store from './store'
 import './registerServiceWorker'
 
+
+import './main.css';
+
 Vue.config.productionTip = false
 
 new Vue({

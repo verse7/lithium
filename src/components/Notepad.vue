@@ -1,10 +1,11 @@
 <template>
-  <div>
-    <h1>Course Name</h1>    
-    <h1>Topic</h1><h1>Date</h1>
+  <div class="p-4 w-screen">
+    <input class="bg-white focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-2 px-4 block w-2/5 appearance-none leading-normal mb-2" type="text" placeholder="Topic">
+    <input class="bg-white focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-2 px-4 block w-2/5 appearance-none leading-normal mb-10" type="text" placeholder="Subject">
 
     <form>
-      <input type="textarea" col="10" rol="20" value="TYPE NOTES!!">
+      <textarea class="bg-white focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-2 px-4 block w-full h-64 appearance-none leading-normal">
+      </textarea>
     </form>
   </div>
 
