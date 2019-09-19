@@ -16,8 +16,10 @@
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-plugin-pwa": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
+    "autoprefixer": "^9.6.1",
     "sass": "^1.18.0",
     "sass-loader": "^7.1.0",
+    "tailwindcss": "^1.1.2",
     "vue-template-compiler": "^2.6.10"
   }
 }
